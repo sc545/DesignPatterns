@@ -1,0 +1,39 @@
+content_assist_category_order=org.eclipse.jdt.ui.spellingProposalCategory\:65545\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65540\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65539\u0000org.eclipse.jdt.ui.textProposalCategory\:65541\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:65542\u0000org.eclipse.jdt.ui.templateProposalCategory\:2\u0000org.eclipse.jdt.ui.swtProposalCategory\:3\u0000
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="QuackBehavior"><rhs name\="Quack"/></lhs><lhs name\="FlyBehavior"><rhs name\="FlyWithWings"/><rhs name\="FlyNoWay"/><rhs name\="FlyRocketPowered"/></lhs><lhs name\="Duck"><rhs name\="ModelDuck"/></lhs><lhs name\="WeaponBehavior"><rhs name\="KnifeBehavior"/><rhs name\="SwordBehavior"/><rhs name\="BowAndArrowBehavior"/><rhs name\="AxeBehavior"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="Subject"><rhs name\="WeatherData"/></lhs><lhs name\="WeatherData"><rhs name\="WeatherData"/></lhs><lhs name\="Observer"><rhs name\="CurrentConditionsDisplay"/><rhs name\="StatisticsDisplay"/><rhs name\="ForecastDisplay"/><rhs name\="HeatIndexDisplay"/></lhs><lhs name\="DisplayElement"><rhs name\="CurrentConditionsDisplay"/><rhs name\="StatisticsDisplay"/><rhs name\="ForecastDisplay"/><rhs name\="HeatIndexDisplay"/></lhs><lhs name\="CurrentConditionsDisplay"><rhs name\="CurrentConditionsDisplay"/></lhs><lhs name\="StatisticsDisplay"><rhs name\="StatisticsDisplay"/></lhs><lhs name\="ForecastDisplay"><rhs name\="ForecastDisplay"/></lhs><lhs name\="HeatIndexDisplay"><rhs name\="HeatIndexDisplay"/></lhs><lhs name\="listener.SwingObserverExample"><rhs name\="listener.SwingObserverExample"/></lhs><lhs name\="javax.accessibility.Accessible"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="javax.swing.AbstractButton"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="java.awt.ItemSelectable"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="javax.swing.SwingConstants"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="javax.swing.JComponent"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="javax.swing.TransferHandler$HasGetTransferHandler"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="java.awt.Container"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="java.awt.Component"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="java.awt.image.ImageObserver"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="java.awt.MenuContainer"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="javax.swing.JButton"><rhs name\="javax.swing.JButton"/></lhs><lhs name\="starbuzz.Beverage"><rhs name\="starbuzz.DarkRoast"/><rhs name\="starbuzz.Mocha"/><rhs name\="starbuzz.HouseBlend"/><rhs name\="starbuzz.Whip"/><rhs name\="starbuzz.Espresso"/><rhs name\="starbuzz.Soy"/></lhs><lhs name\="java.io.Closeable"><rhs name\="javaiodecorator.LowerCaseInputStream"/><rhs name\="java.io.BufferedInputStream"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="javaiodecorator.LowerCaseInputStream"/><rhs name\="java.io.BufferedInputStream"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.InputStream"><rhs name\="javaiodecorator.LowerCaseInputStream"/><rhs name\="java.io.BufferedInputStream"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.io.IOException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.io.IOException"/></lhs><lhs name\="java.io.IOException"><rhs name\="java.io.IOException"/></lhs><lhs name\="weather.Station"><rhs name\="weather.Broadcast"/></lhs><lhs name\="weather.WeatherState"><rhs name\="weather.Windy"/></lhs><lhs name\="ex.Subject"><rhs name\="ex.CurrentData"/></lhs><lhs name\="ex.CurrentData"><rhs name\="ex.CurrentData"/></lhs><lhs name\="ex.Observer"><rhs name\="ex.Observer1"/><rhs name\="ex.Ob2"/></lhs><lhs name\="ex.DisplayElement"><rhs name\="ex.Observer1"/><rhs name\="ex.Ob2"/></lhs><lhs name\="ex.Observer1"><rhs name\="ex.Observer1"/></lhs><lhs name\="ex.Ob2"><rhs name\="ex.Ob2"/></lhs><lhs name\="ex.Icecream"><rhs name\="ex.Gelato"/><rhs name\="ex.SingleScoop"/><rhs name\="ex.ShootingStar"/><rhs name\="ex.DoubleScoop"/></lhs><lhs name\="java.lang.Enum"><rhs name\="starbuzz.Beverage$Size"/></lhs><lhs name\="starbuzz.Beverage$Size"><rhs name\="starbuzz.Beverage$Size"/></lhs><lhs name\="PizzaStore"><rhs name\="NYPizzaStore"/><rhs name\="ChicagoPizzaStore"/></lhs><lhs name\="pizzastore.PizzaStore"><rhs name\="pizzastore.CaliforniaPizzaStore"/></lhs><lhs name\="actionadventuregame.Character"><rhs name\="actionadventuregame.Queen"/></lhs></history>
+content_assist_number_of_computers=20
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.ignorelowercasenames=true
+org.eclipse.jdt.ui.importorder=java;javax;org;com;
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.ondemandthreshold=99
+org.eclipse.jdt.ui.overrideannotation=true
+org.eclipse.jdt.ui.staticondemandthreshold=99
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=255,255,225
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
